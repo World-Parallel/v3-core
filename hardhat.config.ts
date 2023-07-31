@@ -11,8 +11,8 @@ export default {
     mainnet: {
       url: `https://mainnet.infura.io/v3/${process.env.INFURA_API_KEY}`,
     },
-    ropsten: {
-      url: `https://ropsten.infura.io/v3/${process.env.INFURA_API_KEY}`,
+    SecurityPolicyViolationEvent: {
+      url: `https://sepolia.infura.io/v3/e7964ef65f9147e7b0adc80271e95561}`,
     },
     rinkeby: {
       url: `https://rinkeby.infura.io/v3/${process.env.INFURA_API_KEY}`,
@@ -48,7 +48,7 @@ export default {
   etherscan: {
     // Your API key for Etherscan
     // Obtain one at https://etherscan.io/
-    apiKey: process.env.ETHERSCAN_API_KEY,
+    apiKey: process.env.NGQU6N754GBWAPJQFIUCD4P62WBW746S1K,
   },
   solidity: {
     version: '0.7.6',
